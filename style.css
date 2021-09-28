@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.contain {
+ padding-top: 200px;
+  width: 100px;
+  height: 60px;
+  margin: auto;
+}
+button {
+  width: 100px;
+  height: 50px;
+  border: none;
+  background-color: #7670FF;
+  border-radius: 12px;
+  color: white;
+  font-size: 15px;
+  transition-duration: .6s;
+}
+button:hover {
+  background-color: transparent;
+  border: solid 4px #B0B6FF;
+  color: black;
+}
